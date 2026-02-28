@@ -1,4 +1,4 @@
-## 1. Array Unidimensional 
+##1. **Array Unidimensional** 
 
 Array: TemperaturaMotor = [75,80,78,82,79,77]
 Cada posición representa la temperatura (°c) del motor Industrial regristada cada hora. 
@@ -10,22 +10,22 @@ Opcion 3: 82°C (Hora 4)
 Opcion 4: 79°C (Hora 5)
 Opcion 5: 77°C (Hora 6) 
 
-## Matriz (3x3) 
+##**Matriz (3x3)** 
 [75, 500, 6.66]
 [80, 540, 6.75]
 [78, 520, 6.66]
 
-Cada fila representa una hora especifica de producción
+##Cada fila representa una hora especifica de producción.
 -Fila o: Temperatura, Unidades producidas, y eficiencia en la primera hora. 
 -Fila 1: Temperatura, Unidades producidas, y eficiencia en la segunda hora.
 -Fila 2: Temperatura, Unidades producidas, y eficiencia en la tercera hora. 
 
-Columnas 
+##**Columnas** 
 -Columnas 0: Temperatura del Motor (°C).
 -Columna 1: Unidades producidas.
 -Columna 2: Relación/Producción/Temperatura(eficiencia). 
 
-## 3. Operación 
+##3. *Operación*
 
 Se puede calcular la eficiencia diviendo las unidades producidas entre la temperatura:
 
@@ -37,7 +37,7 @@ ejemplo en la fila 1:
 
 Esta operacion nos permite ver y analizar el rendimiento del sistema segun la temperatura de operación.
 
-## Comclusion 
+##Comclusion 
 El uso de arrays y matrices nos permite poder organizar y analizar datos de manera estructurada. Como podemis ver en este caso
 se utilizo un array para alamcenar datos secuenciales y una matriz para poder representar informacion relacionada en forma de tabla.
 
